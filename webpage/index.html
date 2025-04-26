@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Set document character encoding to UTF-8 -->
+  <meta charset="UTF-8" />
+  <!-- Ensure the page is responsive on all devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <!-- Title displayed in the browser tab -->
+  <title>University API Portal</title>
+  <!-- Inline CSS styling -->
+  <style>
+    /* Global styles for the body element */
+    body {
+      font-family: Arial, sans-serif; /* Set global font */
+      background: #f0f4f8;             /* Light background color */
+      margin: 0;                      /* Remove default margin */
+      padding: 0;                     /* Remove default padding */
+    }
+    /* Styling for the header element */
+    header {
+      background-color: #003366; /* Dark blue background */
+      color: #fff;               /* White text color */
+      padding: 20px;             /* Padding inside header */
+      text-align: center;        /* Centered text */
+    }
+    /* Styling for the author info within the header */
+    header .author {
+      position: absolute;        /* Position absolute for overlay */
+      top: 20px;                 /* 20px from the top */
+      right: 30px;               /* 30px from the right */
+      font-size: 20px;           /* Font size for author name */
+      font-style: italic;        /* Italic font style */
+      color: #cce0ff;            /* Light blue text color */
+      text-shadow: 1px 1px 2px #002244, 0 0 5px #cce0ff; /* Text-shadow for effect */
+    }
+    /* Remove default margin for the main heading */
+    h1 {
+      margin: 0;
+    }
+    /* Styling for the main content container */
+    main {
+      max-width: 800px;                  /* Maximum width of 800px */
+      margin: 40px auto;                 /* Center horizontally with vertical margin */
+      padding: 20px;                     /* Padding around the content */
+      background-color: white;           /* White background */
+      border-radius: 10px;               /* Rounded corners */
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);/* Subtle shadow effect */
+    }
+    /* Styling for anchor links */
+    a {
+      display: block;                    /* Display as block for spacing */
+      margin: 20px 0;                    /* Vertical margin between links */
+      font-size: 20px;                   /* Increase font size */
+      color: #003366;                    /* Dark blue text color */
+      text-decoration: none;             /* Remove underline */
+      border-left: 4px solid #003366;    /* Left border in dark blue */
+      padding-left: 10px;                /* Padding to separate border from text */
+    }
+    /* Styling for anchor links on hover */
+    a:hover {
+      background-color: #eef4fc;         /* Light blue background on hover */
+    }
+  </style>
+</head>
+<body>
+  <!-- Header section containing title, author, and description -->
+  <header>
+    <!-- Author information with name and role -->
+    <div class="author">Prashanth Vadityavath <br> <br> Information Architecture</div>
+    <!-- Main title of the portal -->
+    <h1>University Information System</h1>
+    <!-- Brief description of the portal functionalities -->
+    <p>Explore Departments, Students, and Courses</p>
+  </header>
+  <!-- Main content area -->
+  <main>
+    <!-- Section heading for available API endpoints -->
+    <h2>Available API Endpoints</h2>
+    <!-- Link to Departments API -->
+    <a href="/departments" target="_blank">📘 View Departments API</a>
+    <!-- Link to Students API -->
+    <a href="/students" target="_blank">🎓 View Students API</a>
+    <!-- Link to Courses API -->
+    <a href="/courses" target="_blank">📚 View Courses API</a>
+
+    <hr>
+    <h2>API Documentation</h2>
+    <a href="/apidocs/" target="_blank" style="color: darkgreen; font-weight: bold;">📝 View Swagger API Documentation</a>
+  </main>
+</body>
+</html>

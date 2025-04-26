@@ -1,0 +1,5 @@
+Flask
+psycopg2
+flasgger
+flask_restx
+flask_cors
