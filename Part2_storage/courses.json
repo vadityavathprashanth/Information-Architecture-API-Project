@@ -1,0 +1,181 @@
+[
+  {
+    "course_id": "APMA1650",
+    "dept_name": "AppMath",
+    "instructors": [
+      {
+        "instructor_id": "113",
+        "name": "Sunil Agarwal",
+        "section": 1,
+        "semester": "Spring",
+        "year": 2023
+      }
+    ],
+    "title": "Statistical Inference 1"
+  },
+  {
+    "course_id": "CSCI1270",
+    "dept_name": "CompSci",
+    "instructors": [
+      {
+        "instructor_id": "112",
+        "name": "Ying Zheng",
+        "section": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "instructor_id": "118",
+        "name": "Calista Holistic",
+        "section": 2,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "title": "Database Management Systems"
+  },
+  {
+    "course_id": "Data1030",
+    "dept_name": "DSI",
+    "instructors": [
+      {
+        "instructor_id": "117",
+        "name": "Carmen Herman",
+        "section": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "title": "Hands-on data science"
+  },
+  {
+    "course_id": "Data1050",
+    "dept_name": "DSI",
+    "instructors": [
+      {
+        "instructor_id": "111",
+        "name": "Joe Smith",
+        "section": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "instructor_id": "117",
+        "name": "Carmen Herman",
+        "section": 1,
+        "semester": "Fall",
+        "year": 2022
+      }
+    ],
+    "title": "Data Engineering"
+  },
+  {
+    "course_id": "Data1450",
+    "dept_name": "DSI",
+    "instructors": [],
+    "title": "Text Analysis"
+  },
+  {
+    "course_id": "Data2050",
+    "dept_name": "DSI",
+    "instructors": [
+      {
+        "instructor_id": "111",
+        "name": "Joe Smith",
+        "section": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "instructor_id": "111",
+        "name": "Joe Smith",
+        "section": 1,
+        "semester": "Summer",
+        "year": 2023
+      },
+      {
+        "instructor_id": "117",
+        "name": "Carmen Herman",
+        "section": 1,
+        "semester": "Spring",
+        "year": 2023
+      }
+    ],
+    "title": "Practicum"
+  },
+  {
+    "course_id": "Econ2180",
+    "dept_name": "Econ",
+    "instructors": [],
+    "title": "Game Theory"
+  },
+  {
+    "course_id": "Econ9999",
+    "dept_name": "Econ",
+    "instructors": [],
+    "title": "Mega Macro Economics"
+  },
+  {
+    "course_id": "Engl1631P",
+    "dept_name": "English",
+    "instructors": [],
+    "title": "Shakespeare's Girls"
+  },
+  {
+    "course_id": "Engl1760M",
+    "dept_name": "English",
+    "instructors": [],
+    "title": "The miracle of Cinema"
+  },
+  {
+    "course_id": "Phil1635",
+    "dept_name": "Philosophy",
+    "instructors": [],
+    "title": "Advanced Deductive Logic"
+  },
+  {
+    "course_id": "Phil2410",
+    "dept_name": "Philosophy",
+    "instructors": [],
+    "title": "Moral Psychology"
+  },
+  {
+    "course_id": "Psyc1450",
+    "dept_name": "Psychology",
+    "instructors": [],
+    "title": "Human sexuality"
+  },
+  {
+    "course_id": "Psyc2134",
+    "dept_name": "Psychology",
+    "instructors": [
+      {
+        "instructor_id": "115",
+        "name": "Taylor Slow",
+        "section": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "instructor_id": "119",
+        "name": "Rashid Irani",
+        "section": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "title": "Intro to Cognitive Science"
+  },
+  {
+    "course_id": "Soc1872O",
+    "dept_name": "Sociology",
+    "instructors": [],
+    "title": "Critical Race Theory"
+  },
+  {
+    "course_id": "Soc1873D",
+    "dept_name": "Sociology",
+    "instructors": [],
+    "title": "Inequality in Infant Health"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "budget": 1000525,
+    "building": "Pembroke",
+    "dept_name": "AppMath",
+    "instructors": [
+      {
+        "id": "113",
+        "name": "Sunil Agarwal",
+        "salary": 99000
+      }
+    ]
+  },
+  {
+    "budget": 4000000,
+    "building": "CIT",
+    "dept_name": "CompSci",
+    "instructors": [
+      {
+        "id": "112",
+        "name": "Ying Zheng",
+        "salary": 220000
+      },
+      {
+        "id": "118",
+        "name": "Calista Holistic",
+        "salary": 123000
+      }
+    ]
+  },
+  {
+    "budget": 750000,
+    "building": "Angell",
+    "dept_name": "DSI",
+    "instructors": [
+      {
+        "id": "111",
+        "name": "Joe Smith",
+        "salary": 120000
+      },
+      {
+        "id": "117",
+        "name": "Carmen Herman",
+        "salary": 150000
+      }
+    ]
+  },
+  {
+    "budget": 1230000,
+    "building": "Watson",
+    "dept_name": "Econ",
+    "instructors": []
+  },
+  {
+    "budget": 1389400,
+    "building": "Litereria",
+    "dept_name": "English",
+    "instructors": [
+      {
+        "id": "114",
+        "name": "Jennifer Lo",
+        "salary": 86000
+      },
+      {
+        "id": "116",
+        "name": "Friar Driver",
+        "salary": 88000
+      }
+    ]
+  },
+  {
+    "budget": 999785,
+    "building": "Pembroke",
+    "dept_name": "Math",
+    "instructors": []
+  },
+  {
+    "budget": 300000,
+    "building": "Athenia",
+    "dept_name": "Philosophy",
+    "instructors": []
+  },
+  {
+    "budget": 1223350,
+    "building": "Skinner",
+    "dept_name": "Psychology",
+    "instructors": [
+      {
+        "id": "115",
+        "name": "Taylor Slow",
+        "salary": 90000
+      },
+      {
+        "id": "119",
+        "name": "Rashid Irani",
+        "salary": 101000
+      }
+    ]
+  },
+  {
+    "budget": 789000,
+    "building": "Watson",
+    "dept_name": "Sociology",
+    "instructors": []
+  }
+]

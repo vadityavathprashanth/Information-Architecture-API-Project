@@ -1,0 +1,272 @@
+[
+  {
+    "courses": [
+      {
+        "course_id": "CSCI1270",
+        "section_id": 2,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "AppMath",
+    "id": "1122",
+    "name": "Julia Rodriguez"
+  },
+  {
+    "courses": [],
+    "dept_name": "Psychology",
+    "id": "1221",
+    "name": "Ivan Petrov"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "CSCI1270",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1030",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2022
+      }
+    ],
+    "dept_name": "DSI",
+    "id": "1238",
+    "name": "John Smith"
+  },
+  {
+    "courses": [],
+    "dept_name": "Psychology",
+    "id": "1298",
+    "name": "Marvel Comic"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "APMA1650",
+        "section_id": 1,
+        "semester": "Spring",
+        "year": 2023
+      },
+      {
+        "course_id": "CSCI1270",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1030",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2022
+      },
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2022
+      },
+      {
+        "course_id": "Data2050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "DSI",
+    "id": "1333",
+    "name": "Mukesh Modi"
+  },
+  {
+    "courses": [],
+    "dept_name": "English",
+    "id": "1444",
+    "name": "Suresh Verma"
+  },
+  {
+    "courses": [],
+    "dept_name": "English",
+    "id": "1455",
+    "name": "Molly Bloom"
+  },
+  {
+    "courses": [],
+    "dept_name": "Philosophy",
+    "id": "1645",
+    "name": "Jane Doe"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "CSCI1270",
+        "section_id": 2,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "DSI",
+    "id": "1845",
+    "name": "Jane Chen"
+  },
+  {
+    "courses": [],
+    "dept_name": "Sociology",
+    "id": "1881",
+    "name": "Holly Zheng"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "CSCI1270",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "CompSci",
+    "id": "1888",
+    "name": "Chuning Liu"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "Math",
+    "id": "1934",
+    "name": "Boris Pasternak"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "Econ",
+    "id": "1970",
+    "name": "Stan Ambani"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "CSCI1270",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "AppMath",
+    "id": "1999",
+    "name": "Peter Lynch"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "CSCI1270",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      },
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "DSI",
+    "id": "2142",
+    "name": "Sabrina Zhou"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "Sociology",
+    "id": "2143",
+    "name": "Maya Abdul"
+  },
+  {
+    "courses": [],
+    "dept_name": "English",
+    "id": "2144",
+    "name": "Karim Shiny"
+  },
+  {
+    "courses": [],
+    "dept_name": "Psychology",
+    "id": "2145",
+    "name": "Valentino Love"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "Math",
+    "id": "2946",
+    "name": "Steve Brown"
+  },
+  {
+    "courses": [
+      {
+        "course_id": "Data1050",
+        "section_id": 1,
+        "semester": "Fall",
+        "year": 2023
+      }
+    ],
+    "dept_name": "Philosophy",
+    "id": "3303",
+    "name": "Jane Lynch"
+  }
+]
